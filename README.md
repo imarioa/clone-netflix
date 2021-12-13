@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br />
 
 ## 🔨 Deploy Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ffcac2df-2ec8-4886-8aac-818bcd7fd924/deploy-status)](https://app.netlify.com/sites/imarioa-netflix-clone/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ffcac2df-2ec8-4886-8aac-818bcd7fd924/deploy-status)](https://imarioa-netflix-clone.netlify.app/)
 
 <br />
 
