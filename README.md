@@ -22,7 +22,9 @@ Esse projeto teve como objetivo o desenvolvimento das minhas habilidades de UI's
 <br />
 
 ## 🌐 Preview
-
+<h1 align="center">
+    <img src="https://im6.ezgif.com/tmp/ezgif-6-f7f8cced9c8c.gif" style="width:500px;height:600px;" />
+</h1>
 
 
 ## 🚀 Tecnologias
