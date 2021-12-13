@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/imarioa">
-    <img alt="Author" src="https://img.shields.io/badge/author-imarioa-red">
+    <img alt="Author" src="https://img.shields.io/badge/author-imarioa-%23FF0000%09">
   </a>
 
   <a href="https://github.com/imarioa/clone-netflix/commit/main">
-    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/imarioa/clone-netflix?color=red&logoColor=red&style=flat-square">
+    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/imarioa/clone-netflix?color=%23FF0000%09">
   </a>
 
 </p>
