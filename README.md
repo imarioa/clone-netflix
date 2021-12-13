@@ -41,5 +41,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br />
 
 <p align="center">
-  Made with by <a href="https://www.linkedin.com/in/imarioa/"> Imario Almeida </a>
+  By <a href="https://www.linkedin.com/in/imarioa/"> Imario Almeida </a>
 </p>
