@@ -23,7 +23,7 @@ Esse projeto teve como objetivo o desenvolvimento das minhas habilidades de UI's
 
 ## 🌐 Preview
 <h1 align="center">
-    <img src="clone-netflix.gif"  />
+    <img src="clone-netflix2.gif"  />
 </h1>
 
 
